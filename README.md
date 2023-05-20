@@ -32,10 +32,8 @@ The project uses the following technologies and libraries:
 
 Follow these steps to set up the project:
 
-Follow these steps to set up the project:
-
 1. Clone the repository: `git clone https://github.com/s1scottd/CIFAR-10_classification.git`
-2. Open Google Colab and upload the notebook file `CIFAR-10_classification.ipynb`.
+2. Open Google Colab and upload the notebook file `CIFAR-10_classification.ipynb` or select the colab button in the notebook.
 
 ## Data <a name="data"></a>
 

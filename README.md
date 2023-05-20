@@ -15,7 +15,7 @@ Convolutional Neural Network (CNN) model for image classification on the CIFAR-1
 
 ## Introduction <a name="introduction"></a>
 
-This project involves building and training a Convolutional Neural Network, both without autotuning and with autotuning, to classify images from the CIFAR-10 dataset.
+This project involves building and training a Convolutional Neural Network, both with and without autotuning, to classify images from the CIFAR-10 dataset.
 
 ## Technologies <a name="technologies"></a>
 
